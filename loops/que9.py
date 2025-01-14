@@ -9,3 +9,6 @@ for item in items:
         print("Duplicate: ", item)
         break
     unique_item.add(item)
+fruits = ["apple", "banana", "cherry"]
+for fruit in fruits:
+    print(fruit)
